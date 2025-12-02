@@ -1,0 +1,11 @@
+🛠️ Technologies Used
+
+Python 3.8+
+
+Pandas, NumPy
+
+Matplotlib, Seaborn
+
+Scikit-learn
+
+Jupyter Notebook
