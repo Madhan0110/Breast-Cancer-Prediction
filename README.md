@@ -1,16 +1,27 @@
 ## 📁 Repository Structure
 
 ├── data/
+
 │   └── breast_cancer_data.csv
+
 ├── notebooks/
+
 │   └── Breast_Cancer_Prediction.ipynb
+
 ├── src/
+
 │   ├── preprocess.py
+
 │   ├── train_model.py
+
 │   └── evaluate.py
+
 ├── models/
+
 │   └── final_model.pkl
+
 ├── README.md
+
 └── requirements.txt
 
 
