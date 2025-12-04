@@ -51,9 +51,9 @@ This project uses machine learning algorithms to classify tumors based on medica
 
 The dataset used is the Breast Cancer Wisconsin Diagnostic Dataset, which contains:
 
-# 569 samples
-# 30 numeric diagnostic features
-# Classification label:
+ 569 samples
+ 30 numeric diagnostic features
+ #### Classification label:
 
       0 → Malignant
       1 → Benign
@@ -62,5 +62,29 @@ You can download the dataset directly from:
 
     1. Scikit-learn datasets module, or
 
-   2.  UCI Machine Learning Repository 
+   2.  UCI Machine Learning Repository
 
+## 🛠️ Technologies Used
+
+1. Python 3.8+
+2. Pandas, NumPy
+3. Matplotlib, Seaborn
+4. Scikit-learn
+5. Jupyter Notebook
+6. Flask / Streamlit for deployment
+
+## ⚙️ Modeling Approach
+
+### Models trained in the project:
+
+1. Logistic Regression
+2. Random Forest Classifier
+3. Support Vector Machine (SVM)
+4. Gradient Boosting
+5. K-Nearest Neighbors (KNN)
+   ### Performance metrics evaluated:
+1. Accuracy
+2. Precision
+3. Recall
+4. F1-score
+5. ROC-AUC
