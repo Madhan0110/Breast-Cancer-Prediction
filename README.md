@@ -73,7 +73,7 @@ You can download the dataset directly from:
 5. Jupyter Notebook
 6. Flask / Streamlit for deployment
 
-## ⚙️ Modeling Approach
+### ⚙️ Modeling Approach
 
 ### Models trained in the project:
 
