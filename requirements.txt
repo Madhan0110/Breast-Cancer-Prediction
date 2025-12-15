@@ -8,4 +8,5 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
-Jupyter Notebook
+streamlit
+pickle
