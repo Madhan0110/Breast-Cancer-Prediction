@@ -2,7 +2,7 @@ import pickle
 import streamlit as st
 
 # Load model
-with open("C:/Users/malli/Downloads/wbc_model.sav", "rb") as file:
+with open("wbc_model.sav", "rb") as file:
     model = pickle.load(file)
 
 st.title('Breast Cancer Prediction App')
@@ -95,5 +95,6 @@ if st.button('Cancer Test Result'):
             st.error('Malignant Tumor Detected – Consult a Doctor Immediately')
         else:
             st.success('Benign Tumor – No Cancer Detected')
+
 
 
