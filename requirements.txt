@@ -1,5 +1,5 @@
 🛠️ Technologies Used
-
+pip install --upgrade pip
 python 3.8+
 pandas, NumPy
 matplotlib, Seaborn
