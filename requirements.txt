@@ -1,12 +1,9 @@
 🛠️ Technologies Used
 
-Python 3.8+
-
-Pandas, NumPy
-
-Matplotlib, Seaborn
-
-Scikit-learn
-
-streamlit
+python 3.8+
+pandas, NumPy
+matplotlib, Seaborn
+scikit-learn
+streamlit==1.34.0
 pickle
+joblib
